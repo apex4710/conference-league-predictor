@@ -1,8 +1,8 @@
-# UEFA Europa League Predictor
+# UEFA Europa Conference League Predictor
 
-**<a href="https://apex4710.github.io/europa-league-predictor/" target="_blank">Access the site here</a>**
+**<a href="https://apex4710.github.io/conference-league-predictor/" target="_blank">Access the site here</a>**
 
-Welcome to the UEFA Europa League Predictor! This web application allows you to enter match scores and view the updated points table based on the Group Stage Tiebreakers.
+Welcome to the UEFA Europa Conference League Predictor! This web application allows you to enter match scores and view the updated points table based on the Group Stage Tiebreakers.
 
 ## Features
 
