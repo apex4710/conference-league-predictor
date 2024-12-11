@@ -50,7 +50,7 @@ The points table is sorted using the following Group Stage Tiebreakers:
 
 ## Disclaimer
 
-The results are updated through the current league stage matchday 5.
+The results are updated through the current league stage matchday.
 
 ## Credits
 
