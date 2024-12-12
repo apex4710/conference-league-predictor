@@ -144,8 +144,8 @@ document.addEventListener("DOMContentLoaded", function() {
         { matchday: 4, date: "2024-11-28", team1: "FK Mlada Boleslav (CZE)", team2: "Real Betis Balompie (ESP)", score1: 2, score2: 1 },
 
         // Matchday 5 - Thursday 12 December 2024
-        { matchday: 5, date: "2024-12-12", team1: "Vikingur Reykjavik (ISL)", team2: "Djurgarden (SWE)", score1: null, score2: null },
-        { matchday: 5, date: "2024-12-12", team1: "FC Astana (KAZ)", team2: "Chelsea FC (ENG)", score1: null, score2: null },
+        { matchday: 5, date: "2024-12-12", team1: "Vikingur Reykjavik (ISL)", team2: "Djurgarden (SWE)", score1: 1, score2: 2 },
+        { matchday: 5, date: "2024-12-12", team1: "FC Astana (KAZ)", team2: "Chelsea FC (ENG)", score1: 1, score2: 3 },
         { matchday: 5, date: "2024-12-12", team1: "FC Copenhagen (DEN)", team2: "Heart of Midlothian FC (SCO)", score1: null, score2: null },
         { matchday: 5, date: "2024-12-12", team1: "ACF Fiorentina (ITA)", team2: "LASK (AUT)", score1: null, score2: null },
         { matchday: 5, date: "2024-12-12", team1: "Istanbul Basaksehir FK (TUR)", team2: "FC Heidenheim(GER)", score1: null, score2: null },
