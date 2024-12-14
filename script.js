@@ -148,7 +148,7 @@ document.addEventListener("DOMContentLoaded", function() {
         { matchday: 5, date: "2024-12-12", team1: "FC Astana (KAZ)", team2: "Chelsea FC (ENG)", score1: 1, score2: 3 },
         { matchday: 5, date: "2024-12-12", team1: "FC Copenhagen (DEN)", team2: "Heart of Midlothian FC (SCO)", score1: 2, score2: 0 },
         { matchday: 5, date: "2024-12-12", team1: "ACF Fiorentina (ITA)", team2: "LASK (AUT)", score1: 7, score2: 0 },
-        { matchday: 5, date: "2024-12-12", team1: "Istanbul Basaksehir FK (TUR)", team2: "FC Heidenheim(GER)", score1: 3, score2: 1 },
+        { matchday: 5, date: "2024-12-12", team1: "Istanbul Basaksehir FK (TUR)", team2: "FC Heidenheim (GER)", score1: 3, score2: 1 },
         { matchday: 5, date: "2024-12-12", team1: "Legia Warszawa (POL)", team2: "FC Lugano (SUI)", score1: 1, score2: 2 },
         { matchday: 5, date: "2024-12-12", team1: "HJK Helsinki (FIN)", team2: "Molde FK (NOR)", score1: 2, score2: 2 },
         { matchday: 5, date: "2024-12-12", team1: "NK Olimpija Ljubljana (SVN)", team2: "Cercle Brugge KSV (BEL)", score1: 1, score2: 4 },
